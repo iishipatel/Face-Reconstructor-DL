@@ -8,6 +8,6 @@ Using unsupervised deep learning technique or rather self supervised deep learni
 
 ## Output
 ### Original image v/s Reconstructed Image after training
-![IMG 1](/Face-Reconstruction-DL/ss/img2.png)
+![IMAGE 1](/Face-Reconstruction-DL/ss/img2.PNG)
 ### Noise included Image v/s Reconstructed Image
-![IMG 2](/Face-Reconstruction-DL/ss/img1.png)
+![IMAGE 2](/Face-Reconstruction-DL/ss/img1.PNG)
